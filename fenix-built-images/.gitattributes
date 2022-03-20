@@ -1,0 +1,2 @@
+VIM3_Ubuntu-minimal-focal_Linux-5.16_arm64_SD-USB_V1.0.10-220320-develop.img.xz filter=lfs diff=lfs merge=lfs -text
+VIM3_Ubuntu-minimal-bionic_Linux-5.16_arm64_SD-USB_V1.0.10-220320-develop.img.xz filter=lfs diff=lfs merge=lfs -text
